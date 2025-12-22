@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Hi%20%F0%9F%91%8B,%20I'm%20Moamen%20Waleed&fontSize=44&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&text=Hi%20%F0%9F%91%8B,%20I'm%20Moamen%20Waleed&fontSize=44&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
 </div>
 
 ###
@@ -67,18 +67,16 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
 
 ###
 
-
+<!-- GIF Section -->
 <div align="center" style="margin-top:20px;">
-<img src="https://media3.giphy.com/media/XjlNyeZp5lDri/giphy.gif" alt="Animated GIF" />
+  <img src="https://media3.giphy.com/media/XjlNyeZp5lDri/giphy.gif" alt="Animated GIF" />
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/eslam-adel92/eslam-adel92/refs/heads/output/snake.svg" alt="Snake animation" />
-
-###
