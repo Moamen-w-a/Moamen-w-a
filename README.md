@@ -74,7 +74,7 @@
 
 
 <div align="center" style="margin-top:20px;">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g4YXNocDVxMjB4cWR6a3JvZW95NWM2M3FsczR2ZXF5YTlnNTd2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjlNyeZp5lDri/giphy.gif" alt="Animated GIF" />
+<img src="https://media3.giphy.com/media/XjlNyeZp5lDri/giphy.gif" alt="Animated GIF" />
 </div>
 
 ###
