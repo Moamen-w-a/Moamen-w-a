@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">🧠 About Me<br><br>I’m a passionate Front-End Developer with 1.5 years of hands-on experience in creating clean, efficient, and user-centric digital products. I focus on strong coding fundamentals and clean architecture, continuously improving my skills through practical projects and learning.<br><br>My expertise lies in building responsive and scalable interfaces using Flutter, React.js, Next.js, and TypeScript, always aiming to deliver meaningful and intuitive user experiences. I thrive on solving real-world problems and crafting digital solutions that make a difference.</h3>
+<h3 align="left">🧠 About Me<br><br>I’m a Front-End Developer with 1.5 years of experience, passionate about building beautiful, clean, and user-friendly interfaces. I love turning ideas into interactive digital experiences that people enjoy.<br><br>I specialize in Flutter, React.js, Next.js, and TypeScript, creating responsive and intuitive apps. I thrive on solving real problems while crafting designs that are both functional and visually engaging.</h3>
 
 ###
 
