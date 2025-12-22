@@ -48,6 +48,10 @@
 
 ###
 
+<p align="left">📤 Connect with Me:</p>
+
+###
+
 <br clear="both">
 
 <div align="left">
@@ -65,5 +69,9 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Moamen-w-a/Moamen-w-a/output/snake.svg" alt="Snake animation" />
 
 ###
