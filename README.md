@@ -71,9 +71,7 @@
 </div>
 
 ###
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
-</div>
+
 
 <div align="center" style="margin-top:20px;">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g4YXNocDVxMjB4cWR6a3JvZW95NWM2M3FsczR2ZXF5YTlnNTd2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XjlNyeZp5lDri/giphy.gif" alt="Animated GIF" />
