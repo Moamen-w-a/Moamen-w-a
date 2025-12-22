@@ -72,6 +72,6 @@
 
 ###
 
-<img src="[https://raw.githubusercontent.com/Moamen-w-a/Moamen-w-a/output/snake.svg](https://raw.githubusercontent.com/eslam-adel92/eslam-adel92/refs/heads/output/snake.svg)" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/eslam-adel92/eslam-adel92/refs/heads/output/snake.svg" alt="Snake animation" />
 
 ###
