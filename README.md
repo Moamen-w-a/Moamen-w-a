@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=93D40A&center=true&vCenter=true&width=700&lines=Moamen+Waleed;Welcome+to+Bdaiat+🚀" />
+  <img src="https://readme-components.vercel.app/api?component=ascii&text=Moamen&font=ANSI+Shadow&fill=93d40a" />
 </div>
-
 ###
 
 <h3 align="left">🧠 About Me<br><br>I’m a Front-End Developer with 1.5 years of experience, passionate about building beautiful, clean, and user-friendly interfaces. I love turning ideas into interactive digital experiences that people enjoy.<br><br>I specialize in Flutter, React.js, Next.js, and TypeScript, creating responsive and intuitive apps. I thrive on solving real problems while crafting designs that are both functional and visually engaging.</h3>
