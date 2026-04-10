@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-components.vercel.app/api?component=ascii&text=Moamen&font=ANSI+Shadow&fill=93d40a" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=93d40a&height=200&section=header&text=MOAMEN&fontSize=60&fontColor=000000&animation=fadeIn" />
 </div>
 ###
 
