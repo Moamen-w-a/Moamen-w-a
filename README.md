@@ -27,7 +27,7 @@
   <img width="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="68" alt="react logo"  />
   <img width="27" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" height="68" alt="Next logo"  />
+  <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/24154156/dango-inner-2.webp" height="68" alt="Next logo"  />
   <img width="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="68" alt="androidstudio logo"  />
   <img width="27" />
