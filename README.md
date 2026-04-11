@@ -27,6 +27,8 @@
   <img width="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="68" alt="react logo"  />
   <img width="27" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/next/next-original.svg" height="68" alt="Next logo"  />
+  <img width="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="68" alt="androidstudio logo"  />
   <img width="27" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="68" alt="figma logo"  />
